@@ -1,0 +1,551 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: 'D29A143F15D9B5A11EBFDFC74A594886',
+    participant: undefined
+  },
+  messageTimestamp: 1681742115,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: 'E2336F208A8FAB29FDA54117E3C44109',
+    participant: undefined
+  },
+  messageTimestamp: 1681742119,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: 'A688A394D3B49F44A8023D4521148CD9',
+    participant: undefined
+  },
+  messageTimestamp: 1681742121,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: '3E4B59782175CACDB01C0B7834104844',
+    participant: undefined
+  },
+  messageTimestamp: 1681742124,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: '56D251C82D4F03EEE994A0D1B8F376C6',
+    participant: undefined
+  },
+  messageTimestamp: 1681742126,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: '5F6C6A62FCCF328677ADA11039CC5369',
+    participant: undefined
+  },
+  messageTimestamp: 1681742137,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: 'San martin',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'San martin',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493804670202@s.whatsapp.net',
+    fromMe: false,
+    id: '7ECFE4EDC04FF84ED7F818D8E34A7F62',
+    participant: undefined
+  },
+  messageTimestamp: 1681742277,
+  pushName: 'Claudio',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5493804670202'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493804670202@s.whatsapp.net',
+    fromMe: false,
+    id: 'D81C120744D8AD470CD34F53E8B8A3FA',
+    participant: undefined
+  },
+  messageTimestamp: 1681742286,
+  pushName: 'Claudio',
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '5493804670202'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493804670202@s.whatsapp.net',
+    fromMe: false,
+    id: '6F75C1C576974926356FF662A2659541',
+    participant: undefined
+  },
+  messageTimestamp: 1681742296,
+  pushName: 'Claudio',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493804670202'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493804670202@s.whatsapp.net',
+    fromMe: false,
+    id: 'ADB0B007E85AD298E168018FCAF2A9A8',
+    participant: undefined
+  },
+  messageTimestamp: 1681742301,
+  pushName: 'Claudio',
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '5493804670202'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493804670202@s.whatsapp.net',
+    fromMe: false,
+    id: '0E3299002FCDDC3DFECBD7EEF5A62ADF',
+    participant: undefined
+  },
+  messageTimestamp: 1681742307,
+  pushName: 'Claudio',
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '5493804670202'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493804670202@s.whatsapp.net',
+    fromMe: false,
+    id: 'C1735470CDF6256298539157AA9029F4',
+    participant: undefined
+  },
+  messageTimestamp: 1681742314,
+  pushName: 'Claudio',
+  message: Message {
+    conversation: 'La paz',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'La paz',
+  from: '5493804670202'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: 'C040E06F2485DB54B6C16F0D900C7A00',
+    participant: undefined
+  },
+  messageTimestamp: 1681742349,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493804670202@s.whatsapp.net',
+    fromMe: false,
+    id: 'C4517D632861851F1147CC3A986F9B89',
+    participant: undefined
+  },
+  messageTimestamp: 1681742351,
+  pushName: 'Claudio',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5493804670202'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493804670202@s.whatsapp.net',
+    fromMe: false,
+    id: '3BDAB2E362B48570D64CDB1E81D43D2D',
+    participant: undefined
+  },
+  messageTimestamp: 1681742355,
+  pushName: 'Claudio',
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '5493804670202'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: '84F8B32DA46AAF72F309E8486ED561A4',
+    participant: undefined
+  },
+  messageTimestamp: 1681742363,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493804670202@s.whatsapp.net',
+    fromMe: false,
+    id: '30845B59346BF1635DF2006D4C2A7408',
+    participant: undefined
+  },
+  messageTimestamp: 1681742364,
+  pushName: 'Claudio',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493804670202'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: '727051554AB4D62DCBF4BD54FFB5A235',
+    participant: undefined
+  },
+  messageTimestamp: 1681742366,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: '7D44CAC4C9981216CBFC1B2A8F9D22A5',
+    participant: undefined
+  },
+  messageTimestamp: 1681742368,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493804670202@s.whatsapp.net',
+    fromMe: false,
+    id: 'E4E15F512028E70F48FFDF7C6ABBC977',
+    participant: undefined
+  },
+  messageTimestamp: 1681742371,
+  pushName: 'Claudio',
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5493804670202'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: 'D7310FA8BB3E6389E4D60F64BBCC2052',
+    participant: undefined
+  },
+  messageTimestamp: 1681742372,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493804670202@s.whatsapp.net',
+    fromMe: false,
+    id: 'AEF7750A73F4217C961605C67546A960',
+    participant: undefined
+  },
+  messageTimestamp: 1681742375,
+  pushName: 'Claudio',
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '5493804670202'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: '4E75FCC3733843381CA5295384479A8C',
+    participant: undefined
+  },
+  messageTimestamp: 1681742375,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: 'Hahehe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hahehe',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: 'ADB02BD140B429FF125F93AD03FEC54C',
+    participant: undefined
+  },
+  messageTimestamp: 1681744313,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: '04E5F0DE98656BE6AC247235D649424E',
+    participant: undefined
+  },
+  messageTimestamp: 1681744342,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: '6AE084713CB94C641C6C755A6646B26A',
+    participant: undefined
+  },
+  messageTimestamp: 1681744420,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: '3889968E6927BB531126CB33CD849065',
+    participant: undefined
+  },
+  messageTimestamp: 1681744461,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: '61AA92A279A57F45F573CD056FC16AC6',
+    participant: undefined
+  },
+  messageTimestamp: 1681744559,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5492954565149'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492954565149@s.whatsapp.net',
+    fromMe: false,
+    id: '6EE4DF2F6A944B8EB20DC2CB2517B90D',
+    participant: undefined
+  },
+  messageTimestamp: 1681744687,
+  pushName: 'Matias N Zamora',
+  message: Message {
+    conversation: 'Gre',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gre',
+  from: '5492954565149'
+}

@@ -4,26 +4,12 @@ const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const MySQLAdapter = require('@bot-whatsapp/database/mysql')
 
-/**
- * Declaramos las conexiones de MySQL
- */
 const MYSQL_DB_HOST = 'localhost'
 const MYSQL_DB_USER = 'root'
 const MYSQL_DB_PASSWORD = ''
 const MYSQL_DB_NAME = 'bot'
 const MYSQL_DB_PORT = '3306'
 
-/**
- * Aqui declaramos los flujos hijos, los flujos se declaran de atras para adelante, es decir que si tienes un flujo de este tipo:
- *
- *          Menu Principal
- *           - SubMenu 1
- *             - Submenu 1.1
- *           - Submenu 2
- *             - Submenu 2.1
- *
- * Primero declaras los submenus 1.1 y 2.1, luego el 1 y 2 y al final el principal.
-*/
 
 const flowAdios = addKeyword(
     ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','ñ','o','p','q','r','s','t','u','v','w','x','y','z']
@@ -70,7 +56,7 @@ const flowSecundario = addKeyword('Menu').addAnswer(
         'Escribe el numero: \n',
         '🌡 *1*.  Siento Fiebre',
         '💧 *2*.  Me Siento Triste',
-        '💊 *3*.  Nesecito Medicamentos'
+        '💊 *3*.  Necesito Medicamentos'
     ],
     null,
     null,
